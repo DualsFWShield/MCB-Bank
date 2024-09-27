@@ -1,6 +1,6 @@
-##Télécharger le code source
+Télécharger le code source
 
-#Premier téléchargement
+Premier téléchargement
 
 1. Télécharger XAMPP et configurez le
 
